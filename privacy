@@ -5,10 +5,7 @@ Last Updated: January 2025
 English Up does not collect any personal information from users. All data stored locally on your device.
 
 2. In-App Purchases
-Our app uses Apple's in-app purchase system for premium/pro features, managed through RevenueCat. All payment
-        processing is handled directly by Apple, and subscription management is handled by RevenueCat. Neither we nor
-        RevenueCat have access to your payment information. For more information about RevenueCat's privacy policy,
-        you can visit https://www.revenuecat.com/privacy/
+Our app uses Apple's in-app purchase system for premium/pro features, managed through RevenueCat. All payment processing is handled directly by Apple, and subscription management is handled by RevenueCat. Neither we nor RevenueCat have access to your payment information. For more information about RevenueCat's privacy policy, you can visit https://www.revenuecat.com/privacy/
 
 3. Children's Privacy
 Our services are not directed to children under 13. We do not knowingly collect information from children under 13.
